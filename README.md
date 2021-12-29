@@ -39,7 +39,7 @@ These bar charts further confirm that the prime hours of rental/usage is from 6A
 ## Summary
 In summary there seems to be a correlation between bike rental/usage and commute to work times.  Men make up the majority of the riders with the highest usuage during the work week from Monday through Friday.  For this to work in Des Moines I would suggest additional investigation.  Such as the population that has cars but would be interested in using a bike rental facility to commute from home to work.  In addition I think that Des Moines would be better fit to attract tourists instead of commuters to their bike share program.  Here, futher investigation into rentals that had longer trip  durations would be prudent.  One could look at where the bikes started and ended.  How long tourists are interested in using a bike share program.  Lastly, the bikes that are used for longer periods of time how often are they repaired.  Would be good questions and good visualizations to create here.  
 
-
+https://public.tableau.com/views/BikeSharingModule14Challenge/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 
